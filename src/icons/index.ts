@@ -1,0 +1,6 @@
+export { default as DefaultIcon } from './DefaultIcon.vue'
+export { default as SuccessIcon } from './SuccessIcon.vue'
+export { default as ErrorIcon } from './ErrorIcon.vue'
+export { default as WarningIcon } from './WarningIcon.vue'
+export { default as InfoIcon } from './InfoIcon.vue'
+export { default as SpinnerIcon } from './SpinnerIcon.vue'
